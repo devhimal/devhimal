@@ -1,8 +1,12 @@
-### Hi there 👋
+
+👋 Hi there! I'm Himal, a passionate Frontend Web Developer with a knack for turning ideas into visually stunning and user-friendly websites. 🚀 currently I am doing an internship with @rrojan
+
+🌱 At the moment, I am immersed in the process of mastering the full stack development path while simultaneously delving into the exciting realms of blockchain and Web3 technologies.
+
+📫 How to reach me:
+himalhobbs.364@gmail.com, himal.tamang@westcliff.edu
 
 <!--
-**devhimal/devhimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
