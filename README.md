@@ -1,9 +1,9 @@
 
-👋 Hi there! I'm Himal, a passionate Frontend Web Developer with a knack for turning ideas into visually stunning and user-friendly websites. Currently, I am doing an internship with @ rrojan
-
+# Introduction
+👋 Hi there! I'm Himal, a passionate Frontend Web Developer with a knack for turning ideas into visually stunning and user-friendly websites. Currently, I am specializing in next14 and working as a junior developer at triad.
 🌱 At the moment, I am immersed in the process of mastering the full stack development path while simultaneously delving into the exciting realms of blockchain and Web3 technologies.
 
-📫 How to reach me:
+# 📫 How to reach me:
 himalhobbs.364@gmail.com, himal.tamang@westcliff.edu
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...  
 - ⚡ Fun fact: ...
 -->
 
