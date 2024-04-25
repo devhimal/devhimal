@@ -3,14 +3,14 @@
 🌱 At the moment, I am immersed in the process of mastering the full stack development path while simultaneously delving into the exciting realms of blockchain and Web3 technologies.
 
 ## Skills  
-  Frontend Development: HTML5, CSS3, JavaScript, React.js, Nextjs14
-  Backend Development: Node.js, MongoDB, SQL
-  Other: Git, RESTful APIs, Responsive Design, Shadcn, Tailwindcss, Sass, Typescript
+  - Frontend Development: HTML5, CSS3, JavaScript, React.js, Nextjs14
+  - Backend Development: Node.js, MongoDB, SQL
+  - Other: Git, RESTful APIs, Responsive Design, Shadcn, Tailwindcss, Sass, Typescript
 
 ## Contact Details
-Email1: himalhobbs.364@gmail.com
-Email2: himal.tamang@westcliff.edu
-Linkedin: https://www.linkedin.com/in/himaljrtamang/
+  - Email1: himalhobbs.364@gmail.com
+  - Email2: himal.tamang@westcliff.edu
+  - Linkedin: https://www.linkedin.com/in/himaljrtamang/
 
 ## Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or just chat about web development. I'm always excited to connect with fellow developers!
