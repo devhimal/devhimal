@@ -2,9 +2,7 @@
 
 
 ## Himal Tamang
-a passionate Frontend Web Developer with a knack for turning ideas into visually stunning and user-friendly websites. Currently, I am specializing in next14 and working as a junior developer at Triad.
-🌱 At the moment, I am immersed in the process of mastering the full stack development path while simultaneously delving into the exciting realms of blockchain and Web3 technologies.
-
+a learner, an autonomous, an introvert, and always loves dark screens.
 ## Skills  
   - Frontend Development: HTML5, CSS3, JavaScript, React.js, Nextjs14
   - Backend Development: Node.js, MongoDB, SQL
