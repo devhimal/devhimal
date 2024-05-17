@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/himaljrtamang/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=orangered">
 </a>
+<a href="https://www.linkedin.com/in/himaljrtamang/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=twitter&logoColor=0e76a8&color=orangered">
+</a>
 
 
 ## Language and Tools
