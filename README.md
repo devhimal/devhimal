@@ -20,6 +20,9 @@
   </a>
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhimal&layout=compact&theme=tokyonight&langs_count=6" />
+
+
 ## Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or just chat about web development. I'm always excited to connect with fellow developers!
 
