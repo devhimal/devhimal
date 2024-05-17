@@ -1,7 +1,7 @@
 # ![Profile Views](https://komarev.com/ghpvc/?username=devhimal&style=flat&color=blue)
 
 <div align="center">
-  <h1 style="font-size: 32px; font-weight: bold;">Himal Tamang</h1>
+  <h1 style="font-size: 32px; font-weight: bold;">Himal JR Tamang</h1>
 </div>
 A learner, an autonomous, an introvert, and always loves dark screens.
 
