@@ -13,7 +13,6 @@
   - Linkedin: https://www.linkedin.com/in/himaljrtamang/
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=devhimal&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="devhimal's GitHub Stats" />
 
 ## Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or just chat about web development. I'm always excited to connect with fellow developers!
