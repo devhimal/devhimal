@@ -12,7 +12,7 @@
   - Email2: himal.tamang@westcliff.edu
   - Linkedin: https://www.linkedin.com/in/himaljrtamang/
 
-## Github Stats
+## Language and Tools
 
 <p align="start">
   <a href="https://skillicons.dev">
