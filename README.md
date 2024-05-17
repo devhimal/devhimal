@@ -14,6 +14,12 @@
 
 ## Github Stats
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ## Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or just chat about web development. I'm always excited to connect with fellow developers!
 
