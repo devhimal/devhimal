@@ -14,9 +14,9 @@
 
 ## Github Stats
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,nextjs,c,vim,tailwindcss,sass,css,figma,typescript,shadcn" />
+    <img src="https://skillicons.dev/icons?i=nextjs,reactjs,html,javascript,github,c,vim,tailwindcss,sass,css,figma,typescript," />
   </a>
 </p>
 
