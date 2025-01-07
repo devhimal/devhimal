@@ -20,9 +20,9 @@ A learner, an autonomous, an introvert, and always loves dark screens.
 
 ## Language and Tools
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,html,javascript,github,php,wordpress,craft-cms,c,nodejs,mongodb,tailwindcss,sass,css,figma,api" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,javascript,github,nodejs,c,mongodb,tailwindcss,sass,css,figma,api, php,wordpress,craft-cms" />
   </a>
 </p>
 
