@@ -21,7 +21,7 @@ A learner, an autonomous, an introvert, and always loves dark screens.
 ## Product Stack
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,javascript,github,nodejs,c,mongodb,tailwindcss,sass,css,figma,api,php,wordpress,craft-cms" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,javascript,github,nodejs,c,mongodb,tailwindcss,sass,css,figma,api,php" />
   </a>
 </p>
 
