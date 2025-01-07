@@ -18,11 +18,18 @@ A learner, an autonomous, an introvert, and always loves dark screens.
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=orangered">
 </a>
 
-## Language and Tools
+## Product Stack
 
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,javascript,github,nodejs,c,mongodb,tailwindcss,sass,css,figma,api,php,wordpress,craft-cms" />
+  </a>
+</p>
+
+## Web Stack
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,wordpress,craft-cms" />
   </a>
 </p>
 
