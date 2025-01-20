@@ -5,11 +5,6 @@
 </div>
 A learner, an autonomous, an introvert, and always loves dark screens.
 
-## Skills  
-- Frontend Development: HTML5, CSS3, JavaScript, React.js, Next.js
-- Backend Development: Node.js, MongoDB, SQL
-- Other: Git, RESTful APIs, Responsive Design, Shadcn, Tailwind CSS, Sass, TypeScript
-
 ## Contact Details
 - Email1: himalhobbs.364@gmail.com
 - Email2: himal.tamang@westcliff.edu
