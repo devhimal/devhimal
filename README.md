@@ -3,7 +3,8 @@
 <div align="center">
   <h1 style="font-size: 32px; font-weight: bold;">Himal JR Tamang</h1>
 </div>
-A learner, an autonomous, an introvert, and always loves dark screens.
+- A learner, an autonomous, an introvert, and always loves dark screens. <br />
+- Focusing on Typescript, Nextjs, Express, Javascript, and more
 
 ## Contact Details
 - Email1: himalhobbs.364@gmail.com
