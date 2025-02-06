@@ -1,17 +1,14 @@
 # ![Profile Views](https://komarev.com/ghpvc/?username=devhimal&style=flat&color=blue)
 
 <div align="center">
-  <h1 style="font-size: 32px; font-weight: bold;">Himal JR Tamang</h1>
+  <h1 style="font-size: 32px; font-weight: bold;">👋 Hi, I'm Himal JR Tamang</h1>
 </div>
-- A learner, an autonomous, an introvert, and always loves dark screens. <br />
-- Focusing on Typescript, Nextjs, Express, Javascript, and more
+- 💬 A learner, an autonomous, an introvert, and always loves dark screens. <br />
+- 👀 Focusing on Typescript, Nextjs, Express, Javascript, and more
 
-## Contact Details
-- Email1: himalhobbs.364@gmail.com
-- Email2: himal.tamang@westcliff.edu
-    
+## Connect with me    
 <a href="https://www.linkedin.com/in/himaljrtamang/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=orangered">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=blue">
 </a>
 
 ## Product Stack
